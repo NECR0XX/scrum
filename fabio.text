@@ -1,0 +1,130 @@
+
+
+.c{
+width: 191px;
+height: 93px;
+flex-shrink: 0;
+font-family: Potta One;
+font-size: 36px;
+font-weight: 400;
+line-height: normal;
+margin-right: -80px;
+
+}
+
+.d{
+width: 191px;
+height: 93px;
+flex-shrink: 0;
+color: #26292B;
+font-family: Potta One;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+p{
+font-size: 100px;
+margin-left: 370px;
+margin-top:20px;
+}
+
+.text-section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.text-section h2 {
+    color: #333333;
+    font-size: 28px;
+    margin-bottom: 20px;
+
+}
+
+.text-section p {
+    color: #666666;
+    font-size: 16px;
+    margin-bottom: 12px;
+    margin-right: 500px;
+}
+
+.text-section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.text-section a:hover {
+    text-decoration: underline;
+}
+
+.text-box {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    border: 1px solid #dddddd;
+    margin-left: 200px;
+   
+}
+
+.text-section{
+margin-left:60px;
+}
+
+.text-box h3 {
+    color: #333333;
+    font-size: 24px;
+    margin-bottom: 15px;
+    margin-right: 500px;
+  
+}
+
+.text-box p {
+    color: #666666;
+    font-size: 16px;
+    margin-bottom: 12px;
+    margin-left: -10px;
+
+}
+
+.text-box a {
+    color: #ff6600;
+    text-decoration: none;
+    margin-left: -500px;
+
+}
+
+.text-box a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+HTML:
+
+
+
+    <p> BASQUETEBOL </p>
+<div class="text-box text-section">
+    <h2>Um dos esportes mais praticados do mundo</h2>
+   O basquetebol ou basquete é um esporte coletivo jogado por duas equipes, que têm o objetivo de fazer pontos ao acertar a bola na cesta do adversário, o alvo fixo na quadra. A prática é caracterizada por ser dinâmica que envolve diferentes capacidades físicas, como a agilidade e a coordenação motora.</p>
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod felis vel massa hendrerit, vel fermentum turpis eleifend.
+   Curabitur feugiat sapien ut ultricies vulputate. Sed eu justo nec turpis vestibulum sodales.
+   Praesent sit amet mi nec lorem imperdiet elementum. Sed at sapien in urna bibendum convallis.
+</div>
+
+<div class="text-box text-section">
+    <h2>Mas afinal, como surgiu o basquetebol?</h2>
+    <p>O surgimento do basquete ocorreu no ano de 1891, nos Estados Unidos. O idealizador do esporte foi o canadense James Naismith, um professor de Educação Física que, na época, lecionava na Associação Cristã de Moços de Springfield, em Massachusetts.</p>
+</div>

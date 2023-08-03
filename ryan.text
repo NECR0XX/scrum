@@ -1,0 +1,32 @@
+    <section class=""><div class="ryan2">SOFTBOL</div>
+<div class="texto"><div><img class="imagem1"src="imagens/jogabilidade-de-softball-no-photoshot-do-campo-conceito-de-softball_950002-1251.jpg"></div>Em 1933, o primeiro torneio nacional de softball amador ocorreu em conjunto com a Feira Mundial de Chicago e, pouco depois, 
+o repórter que escreveu sobre o evento, Leo Fischer, ajudou a fundar a Amateur Softball Association (ASA). O softball continuou a se espalhar
+para o resto do mundo, talvez com seu maior impulso vindo de militares americanos jogando e ensinando o jogo nos campos da Segunda Guerra Mundial. </div>
+
+<div><div><img class="imagem2" src="imagens/softbol-01-768x512.jpg"></div>
+</div>
+    </section>
+
+
+
+    CSS:
+
+    .ryan1{
+    background-color: rgb(248, 2, 2);
+    margin-top: -16px;
+    margin-left: -16px;
+}
+.ryan2{
+    font-size: 80px;
+    text-align: center;
+}
+.imagem1{
+    height: 400px;
+    width: 500px;
+    border-radius: 5%;
+}
+.texto{
+    width:500px;
+    text-align: center;
+
+}
