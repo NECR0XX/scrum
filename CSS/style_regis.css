@@ -155,7 +155,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1483px;
+    margin-left: -1520px;
     width: 30px;
     height: 335px;
     background-color: #222;
@@ -189,8 +189,8 @@ header {
     text-align: center;
     position: absolute;
     background-color: #181a1c;
-    margin-top: 2581px;
-    margin-left: -1559px;
+    margin-top: 2220px;
+    margin-left: -1396px;
     width: 100vw;
     height: 60px;
 }
@@ -220,7 +220,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1030px;
-    margin-top: -148px;
+    margin-top: -548px;
     font-weight: normal;
 }
 .text-box3 {
