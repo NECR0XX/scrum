@@ -20,7 +20,7 @@ header {
     background-color: #303e6f;
 }
 .left {
-    margin-left: 1150px;
+    margin-left: 1070px;
     margin-top: 32px;
 }
 .initial img {
@@ -361,7 +361,8 @@ header {
     height: 600px auto;
 }
 .center2 img {
-    margin-left: 47px;
+    width: 1300px;
+    margin-left: 179px;
     margin-top: 1px;
 }
 .tit {
@@ -448,6 +449,7 @@ header {
     margin-left: 743px;
 }
 .mail {
+    color: #ffffff;
     margin-left: 300px;
     margin-top: 20px;
     text-align: center;
@@ -456,6 +458,7 @@ header {
     text-shadow: 0px 1px 4px #7084cc63;
 }
 .tel {
+    color: #ffffff;
     margin-left: 757px;
     margin-top: -36px;
     text-align: center;
@@ -464,6 +467,7 @@ header {
     text-shadow: 0px 1px 4px #7084cc63;
 }
 .local {
+    color: #ffffff;
     text-align: center;
     margin-left: 1040px;
     margin-top: -56px;
@@ -475,7 +479,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1560px;
+    margin-left: -1483px;
     width: 30px;
     height: 335px;
     background-color: #222;

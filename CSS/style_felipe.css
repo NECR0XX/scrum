@@ -17,7 +17,7 @@ header {
     background-color: #303e6f;
 }
 .left {
-    margin-left: 1150px;
+    margin-left: 1070px;
     margin-top: 32px;
 }
 .initial img {
@@ -147,14 +147,15 @@ header {
     height: 600px auto;
 }
 .center img {
-    margin-left: 47px;
+    width: 1300px;
+    margin-left: 179px;
     margin-top: 1px;
 }
 /* SIDEBAR */
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1560px;
+    margin-left: -1483px;
     width: 30px;
     height: 335px;
     background-color: #222;
