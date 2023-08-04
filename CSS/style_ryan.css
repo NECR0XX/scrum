@@ -155,7 +155,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1483px;
+    margin-left: -1520px;
     width: 30px;
     height: 335px;
     background-color: #222;
@@ -190,7 +190,7 @@ header {
     position: absolute;
     background-color: #181a1c;
     margin-top: 2581px;
-    margin-left: -1559px;
+    margin-left: -1535px;
     width: 100vw;
     height: 60px;
 }
@@ -236,14 +236,14 @@ header {
     font-weight: normal;
 }
 .text-box4 {
-    max-width: 300px;
+    max-width: 400px;
     margin: 50px auto;
     padding: 30px;
     background-color: #ffffff;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     border: 1px solid #dddddd;
-    margin-left: 630px;
+    margin-left: 603px;
     margin-top: -288px;
     font-weight: normal;
 }
@@ -257,29 +257,6 @@ header {
     border: 1px solid #dddddd;
     margin-left: 1038px;
     margin-top: -380px;
-    font-weight: normal;
-}
-.text-box6 {
-    max-width: 300px;
-    margin: 50px auto;
-    padding: 30px;
-    background-color: #ffffff;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    border: 1px solid #dddddd;
-    margin-left: 258px;
-    margin-top: 50px;
-    font-weight: normal;
-}
-.text-box7 {
-    max-width: 1000px;
-    margin: 50px auto;
-    padding: 30px;
-    background-color: #ffffff;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    border: 1px solid #dddddd;
-    margin-left: 300px;
     font-weight: normal;
 }
 .text-box h2 {
@@ -310,7 +287,7 @@ header {
     width: 300px;
     height: 300px;
     margin-left: 270px;
-    margin-top: -223px;
+    margin-top: -398px;
     border-radius: 10px;
 }
 .ilustration3 img {
@@ -319,7 +296,7 @@ header {
     position: absolute;
     width: 700px;
     height: 300px;
-    margin-left: 620px;
-    margin-top:  17px;
+    margin-left: 290px;
+    margin-top:  -400px;
     border-radius: 10px;
 }
