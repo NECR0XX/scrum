@@ -441,8 +441,7 @@ header {
     font-style: normal;
     line-height: normal;
 }
-.picture {
-    background-color: whitesmoke;
+.picture img{
     width: 716px;
     height: 451px;
     margin-top: -451px;
