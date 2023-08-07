@@ -155,7 +155,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1483px;
+    margin-left: -1520px;
     width: 30px;
     height: 335px;
     background-color: #222;
@@ -189,8 +189,8 @@ header {
     text-align: center;
     position: absolute;
     background-color: #181a1c;
-    margin-top: 2581px;
-    margin-left: -1559px;
+    margin-top: 2881px;
+    margin-left: -1535px;
     width: 100vw;
     height: 60px;
 }
@@ -220,7 +220,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1030px;
-    margin-top: -148px;
+    margin-top: -255px;
     font-weight: normal;
 }
 .text-box3 {
@@ -232,7 +232,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 230px;
-    margin-top: -90px;
+    margin-top: -264px;
     font-weight: normal;
 }
 .text-box4 {
@@ -244,7 +244,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 630px;
-    margin-top: -288px;
+    margin-top: -900px;
     font-weight: normal;
 }
 .text-box5 {
@@ -256,7 +256,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1038px;
-    margin-top: -380px;
+    margin-top: -410px;
     font-weight: normal;
 }
 .text-box6 {
@@ -268,7 +268,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 258px;
-    margin-top: 50px;
+    margin-top: 500px;
     font-weight: normal;
 }
 .text-box7 {
@@ -280,6 +280,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 300px;
+    margin-top: 188px;
     font-weight: normal;
 }
 .text-box h2 {
@@ -309,8 +310,8 @@ header {
     position: absolute;
     width: 300px;
     height: 300px;
-    margin-left: 270px;
-    margin-top: -223px;
+    margin-left: 623px;
+    margin-top: -385px;
     border-radius: 10px;
 }
 .ilustration3 img {
@@ -318,8 +319,8 @@ header {
     border: 1px solid #dddddd;
     position: absolute;
     width: 700px;
-    height: 300px;
-    margin-left: 620px;
-    margin-top:  17px;
+    height: 500px;
+    margin-left: 273px;
+    margin-top: -391px;
     border-radius: 10px;
 }
