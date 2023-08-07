@@ -140,7 +140,6 @@ header {
 }
 /* CENTER */
 .center {
-    position: absolute;
     margin-top: 195px;
     margin-left: -1559px;
     width: 100vw;
@@ -155,7 +154,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1483px;
+    margin-left: -1520px;
     width: 30px;
     height: 335px;
     background-color: #222;
@@ -208,7 +207,6 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 230px;
-    margin-top: 100px;
     font-weight: normal;
 }
 .text-box2 {
@@ -220,7 +218,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1030px;
-    margin-top: -148px;
+    margin-top: -424px;
     font-weight: normal;
 }
 .text-box3 {
@@ -244,7 +242,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 630px;
-    margin-top: -288px;
+    margin-top: -520px;
     font-weight: normal;
 }
 .text-box5 {
@@ -256,19 +254,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1038px;
-    margin-top: -380px;
-    font-weight: normal;
-}
-.text-box6 {
-    max-width: 300px;
-    margin: 50px auto;
-    padding: 30px;
-    background-color: #ffffff;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    border: 1px solid #dddddd;
-    margin-left: 258px;
-    margin-top: 50px;
+    margin-top: -550px;
     font-weight: normal;
 }
 .text-box7 {
@@ -280,6 +266,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 300px;
+    margin-top: 590px;
     font-weight: normal;
 }
 .text-box h2 {
@@ -298,7 +285,6 @@ header {
     border: 1px solid #dddddd;
     position: absolute;
     width: 400px;
-    height: 678px;
     margin-left: 577px;
     margin-top:  50px;
     border-radius: 10px;
@@ -308,7 +294,6 @@ header {
     border: 1px solid #dddddd;
     position: absolute;
     width: 300px;
-    height: 300px;
     margin-left: 270px;
     margin-top: -223px;
     border-radius: 10px;
@@ -318,8 +303,7 @@ header {
     border: 1px solid #dddddd;
     position: absolute;
     width: 700px;
-    height: 300px;
     margin-left: 620px;
-    margin-top:  17px;
+    margin-top:  75px;
     border-radius: 10px;
 }
