@@ -188,8 +188,8 @@ header {
     text-align: center;
     position: absolute;
     background-color: #181a1c;
-    margin-top: 2581px;
-    margin-left: -1559px;
+    margin-top: 2401px;
+    margin-left: -1538px;
     width: 100vw;
     height: 60px;
 }
@@ -218,7 +218,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 1030px;
-    margin-top: -424px;
+    margin-top: -382px;
     font-weight: normal;
 }
 .text-box3 {
@@ -230,7 +230,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 230px;
-    margin-top: -90px;
+    margin-top: 11px;
     font-weight: normal;
 }
 .text-box4 {
@@ -242,7 +242,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 630px;
-    margin-top: -520px;
+    margin-top: -367px;
     font-weight: normal;
 }
 .text-box5 {
@@ -304,6 +304,6 @@ header {
     position: absolute;
     width: 700px;
     margin-left: 620px;
-    margin-top:  75px;
+    margin-top:  102px;
     border-radius: 10px;
 }
