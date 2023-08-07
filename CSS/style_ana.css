@@ -155,7 +155,7 @@ header {
 .menu2 {
     position: sticky;
     margin-top: 197px;
-    margin-left: -1483px;
+    margin-left: -1520px;
     width: 30px;
     height: 335px;
     background-color: #222;
@@ -232,7 +232,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 230px;
-    margin-top: -90px;
+    margin-top: -304px;
     font-weight: normal;
 }
 .text-box4 {
@@ -268,7 +268,7 @@ header {
     border-radius: 10px;
     border: 1px solid #dddddd;
     margin-left: 258px;
-    margin-top: 50px;
+    margin-top: 474px;
     font-weight: normal;
 }
 .text-box7 {
@@ -310,7 +310,7 @@ header {
     width: 300px;
     height: 300px;
     margin-left: 270px;
-    margin-top: -223px;
+    margin-top: -61px;
     border-radius: 10px;
 }
 .ilustration3 img {
@@ -320,6 +320,6 @@ header {
     width: 700px;
     height: 300px;
     margin-left: 620px;
-    margin-top:  17px;
+    margin-top:  236px;
     border-radius: 10px;
 }
